@@ -1,0 +1,51 @@
+UserID	Gender	Age	CourseCategory	EnrolledPlan	CourseProgress	LastLoginDaysAgo	Location
+U001	Female	22	Data Science	Free	85	3	Delhi
+U002	Male	25	Web Development	Premium	90	1	Mumbai
+U003	Female	28	AI		70		Bangalore
+U004	Male		Data Science	Free		5	Delhi
+U005	Female	30	Cloud	Premium	95	2	Mumbai
+U006		27	Cloud	Premium	65	7	Chennai
+U007	Male	31	AI	Free	80		Kolkata
+U008	Female	26	Data Science	Premium	88	3	
+U009	Female	24	Web Development	Free		8	Chennai
+U010	Male	29	Data Science	Free	78	2	Delhi
+U011	Female	25	AI	Premium	93	1	Bangalore
+U012	Male	30	Cloud	Free	66	4	Mumbai
+U013	Female	27	Web Development	Premium	91	2	Mumbai
+U014	Male	26	AI	Free	83	5	Chennai
+U015	Female	28	Cloud	Premium	77		Delhi
+U016	Male	32	Data Science	Free	80	2	Bangalore
+U017	Female	23	AI	Free		7	Mumbai
+U018	Male	30	Web Development	Premium	92	1	Chennai
+U019	Female	29	Cloud	Free	89	6	Bangalore
+U020	Male	35	Cloud	Premium	94	2	Mumbai
+U021	Female	27	AI	Free	76	3	Delhi
+U022	Male	31	Data Science		85	2	Chennai
+U023	Female	26	AI	Premium		4	Kolkata
+U024	Male	33	Cloud	Premium	88		Mumbai
+U025	Female	22	Web Development	Free	73	5	Bangalore
+U026	Female	28	Cloud	Premium	90	1	Mumbai
+U027	Male	26	Data Science	Free	79	6	Kolkata
+U028	Female	25	AI	Premium	87	2	Delhi
+U029	Male	31	Cloud	Free	72	3	Chennai
+U030	Female	30	Web Development	Premium		4	Delhi
+U031	Male	29	Cloud	Free	68	5	Mumbai
+U032	Female	27	Data Science	Premium	86	2	Bangalore
+U033	Female	28	AI	Free	81	3	Delhi
+U034	Male	30	Web Development	Premium	94	1	Kolkata
+U035	Female	24	Cloud	Free	75	7	Chennai
+U036	Female	26	AI	Premium	89	4	Delhi
+U037	Male	28	Data Science	Premium		6	Mumbai
+U038	Male	29	AI	Free	83	2	Bangalore
+U039	Female	25	Web Development	Premium	92	1	Chennai
+U040	Male	27	Cloud	Free	74	3	Delhi
+U041	Male	26	Data Science	Free	88	4	Bangalore
+U042	Female	25	AI	Premium	91	2	Kolkata
+U043	Female	29	Cloud	Free	85		Delhi
+U044	Male	32	Web Development	Premium	95	1	Mumbai
+U045	Female	30	Data Science	Free	79	5	Kolkata
+U046	Female	27	Cloud	Premium	86	3	Delhi
+U047	Male	31	Cloud	Free	77	2	Bangalore
+U048	Female	28	AI	Premium	90	1	Kolkata
+U049	Female	29	Cloud	Free	70	4	Chennai
+U050	Female	29	Cloud	Free	70	4	Chennai
